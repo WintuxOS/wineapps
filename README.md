@@ -1,7 +1,7 @@
 # wineapps
 
 Open it from wine explorer. <br>
-Path: My Documents/wineapps
+Wine explorer path: My Documents/wineapps
 
 [Spanish] <br>
 Excepto cuando se indique lo contrario, todo lo que encontrarás aquí está pansado para poner a prueba wine, box86... en Raspberry. <br>
