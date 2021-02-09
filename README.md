@@ -10,4 +10,6 @@ Por hacer: <br>
 
 These programs are abandonware, use them at your own risk.
 https://www.myabandonware.com/
-
+https://www.myabandonware.com/browse/platform/dos/
+https://www.myabandonware.com/browse/platform/windows/
+https://www.myabandonware.com/browse/platform/win3x/
