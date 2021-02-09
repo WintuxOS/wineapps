@@ -1,6 +1,6 @@
 # wineapps
 
-Open it from wine explorer. 
+Open it from wine explorer. <br>
 Path: My Documents/wineapps
 
 [Spanish] <br>
