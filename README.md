@@ -13,3 +13,7 @@ https://www.myabandonware.com/
 https://www.myabandonware.com/browse/platform/dos/
 https://www.myabandonware.com/browse/platform/windows/
 https://www.myabandonware.com/browse/platform/win3x/
+https://computeremuzone.com/pc/
+https://www.abandonwaredos.com/
+https://gamesnostalgia.com/games/platform/dos
+https://gamesnostalgia.com/games/platform/windows
